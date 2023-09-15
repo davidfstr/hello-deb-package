@@ -1,0 +1,9 @@
+Package: hello
+Version: 1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: David Foster <david@example.com>
+Description: Prints a hello world message and exits.
+Depends: libc6
+
